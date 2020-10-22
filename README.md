@@ -12,4 +12,16 @@ IntelliJ IDEA + VSCODE
 
 ### 页面展示
 #### 注册页面
-![Image text](https://github.com/Kingyumu/Travel/blob/main/img/img1.png)
+![Image text](https://github.com/Kingyumu/onlineXdclass/blob/main/img/img1.png)
+#### 登录页面
+![Image text](https://github.com/Kingyumu/onlineXdclass/blob/main/img/img2.png)
+#### 主/商品列表页面
+![Image text](https://github.com/Kingyumu/onlineXdclass/blob/main/img/img3.png)
+#### 订单页面
+![Image text](https://github.com/Kingyumu/onlineXdclass/blob/main/img/img4.png)
+#### 个人中心页面
+![Image text](https://github.com/Kingyumu/onlineXdclass/blob/main/img/img5.png)
+#### 商品详情页面
+![Image text](https://github.com/Kingyumu/onlineXdclass/blob/main/img/img6.png)
+#### 商品详情目录页面
+![Image text](https://github.com/Kingyumu/onlineXdclass/blob/main/img/img7.png)
