@@ -1,5 +1,5 @@
 # onlineXdclass
-一个SSM项目
+一个SSM的移动端项目
 
 ### 技术栈
 SpringBoot + Spring +Mybatis +JWT +Mysql +Gauva + Vue
